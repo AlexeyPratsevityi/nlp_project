@@ -8,4 +8,3 @@ Natural Language Processing with ML, RNN/LSTM, BERT, GPT<br>
   -RNN или LSTM модель<br>
   -BERT<br>
 
--Генерация текста GPT-моделью по пользовательскому prompt:
