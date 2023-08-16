@@ -9,8 +9,3 @@ Natural Language Processing with ML, RNN/LSTM, BERT, GPT<br>
   -BERT<br>
 
 -Генерация текста GPT-моделью по пользовательскому prompt:
-
-GPT team:<br>
-[IvaElen](https://github.com/IvaElen)<br>
-[GalkaMT](https://github.com/GalkaMT)<br>
-[AlexeyPratsevityi](https://github.com/AlexeyPratsevityi)<br>
